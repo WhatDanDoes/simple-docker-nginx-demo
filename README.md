@@ -1,4 +1,4 @@
-simple-docker-ngnix-demo
+simple-docker-nginx-demo
 ========================
 
 The simplest Docker Compose/NGINX demo I could cook up...
